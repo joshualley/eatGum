@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicts>
+	<dict>
+		<key>hello</key>
+		<value>你好</value>
+	</dict>
+	<dict>
+		<key>hehe</key>
+		<value>呵呵</value>
+	</dict>
+  <dict>
+    <key>start</key>
+    <value>开始游戏</value>
+  </dict>
+  <dict>
+    <key>setting</key>
+    <value>设置</value>
+  </dict>
+  <dict>
+    <key>quit</key>
+    <value>退出游戏</value>
+  </dict>
+  <dict>
+    <key>restart</key>
+    <value>再来一局</value>
+  </dict>
+  <dict>
+    <key>next</key>
+    <value>下一关</value>
+  </dict>
+</dicts>
